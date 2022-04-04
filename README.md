@@ -1,5 +1,5 @@
 <h1 align="center">Opa, eu sou o Jhonatta Silva 😎</h1>
-<h3 align="center">Um desenvolvedor front-end júnior em constante crescimento!</h3>
+<h3 align="center">Um desenvolvedor front-end em constante crescimento!</h3>
 
 
 <h3 align="center">🌱 Aprendendo React</h3>
