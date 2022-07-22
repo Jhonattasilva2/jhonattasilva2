@@ -6,6 +6,8 @@
 
 
 
+<h4 align="center">Em breve mais projetos de Análise de dados aqui no perfil, por enquanto apenas projetos antigos de quando eu programava front.</h3>
+
 <br><br>
 
 <p align="center"> <a href="https://getbootstrap.com" target="_blank"> 
