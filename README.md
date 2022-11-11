@@ -1,12 +1,12 @@
-<h1 align="center">Olá, eu sou o Jhonatta Silva</h1>
-<h3 align="center">Um Analista de Dados e Analista de BI Júnior</h3>
+<h1 align="center">Hello, I'm Jhonatta Silva</h1>
+<h3 align="center">A Data Analyst and Python developer</h3>
 
 
-<h3 align="center">🌱 Aprendendo Python</h3>
+<h3 align="center">🌱 Learning Python</h3>
 
 
 
-<h4 align="center">Em breve mais projetos de Análise de dados aqui no perfil, por enquanto apenas projetos antigos de quando eu programava front.</h3>
+<h4 align="center">Soon we'll have more python projects on this profile, at this moment enjoy my old frontend projects</h3>
 
 <br><br>
 
