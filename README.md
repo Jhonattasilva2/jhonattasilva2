@@ -1,12 +1,10 @@
 <h1 align="center">Hello, I'm Jhonatta Silva</h1>
-<h3 align="center">A Data Analyst and Python developer</h3>
+<h3 align="center">A Mobile Developer</h3>
 
 
-<h3 align="center">🌱 Learning Python</h3>
+<h3 align="center">🌱 Always increasing my Flutter skills</h3>
 
 
-
-<h4 align="center">Soon we'll have more python projects on this profile, at this moment enjoy my old frontend projects</h3>
 
 <br><br>
 
