@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Jhonatta</h1>
-<h3 align="center">A Mobile Developer</h3>
+<h3 align="center">A Data Analyst</h3>
 
 
-<h3 align="center">🌱 Always increasing my Flutter skills</h3>
+<h3 align="center">🌱 Always increasing my Python skills</h3>
 
 
 
